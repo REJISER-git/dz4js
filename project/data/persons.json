@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ariel",
+    "house": "The Underwater Kingdom",
+    "age": 16,
+    "person_photo": "https://i.pinimg.com/736x/8a/34/d0/8a34d07efd100200ec348385ffe40668.jpg"
+  },
+  {
+    "name": "Iori Kitahara",
+    "house": "Grand Blue Store",
+    "age": 20,
+    "person_photo": "https://i.pinimg.com/originals/fc/08/39/fc08395f075735cd1dba13ebd6a6672c.jpg"
+  },
+  {
+    "name": "DoomGuy",
+    "house": "The sarcophagus",
+    "age": 1000000000,
+    "person_photo": "https://steamuserimages-a.akamaihd.net/ugc/777374655666403350/DD7828E96F9FD8F3B7D40789D3C770E3963A16DD/?imw=512&amp;imh=466&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
+  }
+]
